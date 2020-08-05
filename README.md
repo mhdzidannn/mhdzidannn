@@ -36,7 +36,7 @@
 <br />
 <br />
 
-<img align="left" alt="Zaidan's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdzidannn&layout=compact" />
+<img align="left" alt="Zaidan's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdzidannn&layout=compact&count_private=true" />
 
 
 [twitter]: https://twitter.com/Zaidan_s6
