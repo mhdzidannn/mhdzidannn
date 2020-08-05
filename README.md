@@ -17,6 +17,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+<img align="left" alt="Dart" width="30px" src="https://www.kindpng.com/picc/m/176-1766682_dart-programming-language-hd-png-download.png">
 <img align="left" alt="Flutter" width="30px" src="https://plugins.jetbrains.com/files/9212/93574/icon/pluginIcon.png">
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
@@ -36,7 +37,7 @@
 <br />
 <br />
 
-<img align="left" alt="Zaidan's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdzidannn&hide=css,html&layout=compact&count_private=true" />
+<img align="left" alt="Zaidan's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdzidannn&layout=compact&count_private=true" />
 
 
 [twitter]: https://twitter.com/Zaidan_s6
