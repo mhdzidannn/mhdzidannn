@@ -39,7 +39,7 @@
 ---
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Zaidan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mhdzidannn&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/Zaidan_s6
 [instagram]: https://www.instagram.com/mhdzidannn/
