@@ -1,10 +1,10 @@
 ## Hello there, I'm Zaidan 👋 
 
 ### I am a student at University of Malaya, Malaysia who is finding his way in the developer world.
-- 👨    You can call me Zidan if you want
-- 💻    I’m currently learning everything 🤘
-- 🥅    2021 Goals: Get a job and try to contribute to an open source project
-- ☕    Coffee is essential to me
+- You can call me Zidan if you want 👨
+- I’m currently learning everything 💻 🤘
+- 2021 Goals: Get a job and try to contribute to an open source project 🥅
+- Coffee is essential to me ☕
 
 
 ### Connect with me:
