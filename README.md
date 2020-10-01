@@ -36,13 +36,14 @@
 ---
 
 <p align = "center">
-<img align="center" alt="Zaidan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mhdzidannn&show_icons=true&hide_border=true&count_private=true&theme=radical&include_all_commits=true" />
+<img align="center" alt="Zaidan's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdzidannn&layout=compact&count_private=true" />
 </p>
 
 <br />
 
-<img align="center" alt="Zaidan's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdzidannn&layout=compact&count_private=true" />
-
+<p align = "center">
+<img align="center" alt="Zaidan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mhdzidannn&show_icons=true&hide_border=true&count_private=true&theme=radical&include_all_commits=true" />
+</p>
 
 [twitter]: https://twitter.com/Zaidan_s6
 [instagram]: https://www.instagram.com/mhdzidannn/
