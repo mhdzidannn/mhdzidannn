@@ -35,8 +35,9 @@
 
 ---
 
-
-<img align="left" alt="Zaidan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mhdzidannn&show_icons=true&hide_border=true&count_private=true&theme=radical&include_all_commits=true" />
+<p align = "center">
+<alt="Zaidan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mhdzidannn&show_icons=true&hide_border=true&count_private=true&theme=radical&include_all_commits=true" />
+</p>
 
 <br />
 <br />
