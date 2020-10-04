@@ -2,7 +2,7 @@
 
 ### I am a student at University of Malaya, Malaysia who is finding his way in the developer world.
 - You can call me Zidan if you want 👨
-- I’m currently learning everything 💻 🤘
+- I’m currently interested in Flutter, as well as doing LeetCode for practice using Java 💻 🤘
 - 2021 Goals: Get a job and try to contribute to an open source project 🥅
 - Coffee is essential to me ☕
 
