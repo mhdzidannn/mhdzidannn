@@ -36,10 +36,7 @@
 
 ---
 
-<p align = "center">
-<img align="center" alt="Zaidan's Top Language" src="https://github-readme-stats-three-chi.vercel.app
-/api/top-langs/?username=mhdzidannn&layout=compact&count_private=true" />
-</p>
+<img align="center" alt="Zaidan's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdzidannn&layout=compact&count_private=true" />
 
 <br />
 
