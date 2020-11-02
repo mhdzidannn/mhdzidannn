@@ -43,8 +43,7 @@
 <br />
 
 <p align = "center">
-<img align="center" alt="Zaidan's Github Stats" src="https://github-readme-stats-git-master.mhdzidannn.vercel.app
-/api?username=mhdzidannn&show_icons=true&hide_border=true&count_private=true&theme=radical&include_all_commits=true" />
+<img align="center" alt="Zaidan's Github Stats" src="https://github-readme-stats.mhdzidannn.vercel.app/api?username=mhdzidannn&show_icons=true&hide_border=true&count_private=true&theme=radical&include_all_commits=true" />
 </p>
 
 [twitter]: https://twitter.com/Zaidan_s6
