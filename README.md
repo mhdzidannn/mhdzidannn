@@ -2,9 +2,15 @@
 
 ### I am a student at University of Malaya, Malaysia who is finding his way in the developer world.
 - You can call me Zidan if you want 👨
-- I’m currently interested in Flutter, as well as doing LeetCode for practice using Java 💻 🤘
-- 2021 Goals: Get a job and try to contribute to an open source project 🥅
+- Learning Flutter and casual LeetCode for practice using Java 💻 🤘
 - Coffee is essential to me ☕
+
+### Goals
+- Striving to become a full stack developer.
+- Currently have Flutter as a front end technology.
+- Expand to learn more front end tools, especially PWA
+- Will start working on own backend service (mirroring Firebase) and deploy on own server.
+- Next project: Car Services App
 
 
 ### Connect with me:
@@ -22,7 +28,6 @@
 <img align="left" alt="Dart" width="30px" src="https://www.kindpng.com/picc/m/176-1766682_dart-programming-language-hd-png-download.png">
 <img align="left" alt="Flutter" width="30px" src="https://miro.medium.com/proxy/1*ilC2Aqp5sZd1wi0CopD1Hw.png">
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-<img align="left" alt="R" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png">
 <img align="left" alt="Java" width="30px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon-700x392.png">
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
