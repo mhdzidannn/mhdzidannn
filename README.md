@@ -1,17 +1,9 @@
 ## Hello there, I'm Zaidan 👋 
 
-### I am a student at University of Malaya, Malaysia who is finding his way in the developer world.
+### I am a simple person leading a fairly simple life finding his way in the software development world.
 - You can call me Zidan if you want 👨
-- Learning Flutter and casual LeetCode for practice using Java 💻 🤘
+- Casually doing challenges at LeetCode 💻 🤘
 - Coffee is essential to me ☕
-
-### Goals
-- Striving to become a full stack developer.
-- Currently have Flutter as a front end technology.
-- Expand to learn more front end tools, especially PWA
-- Will start working on own backend service (mirroring Firebase) and deploy on own server.
-- Next project: Car Services App
-
 
 ### Connect with me:
 
