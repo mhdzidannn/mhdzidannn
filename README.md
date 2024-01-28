@@ -2,7 +2,6 @@
 
 ### I am a simple person leading a fairly simple life finding his way in the software development world.
 - You can call me Zidan if you want 👨
-- Casually doing challenges at LeetCode 💻 🤘
 - Coffee is essential to me ☕
 
 ### Connect with me:
